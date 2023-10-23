@@ -1,0 +1,1 @@
+{"text":"Gameid not initialized correctly.","hint":"Try initialize a new game through /."}
